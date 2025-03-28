@@ -56,8 +56,6 @@ begin
                     end if;
                 when load_data =>
                         
-                
-
     end process;
 
 end architecture;
